@@ -17,4 +17,9 @@ class PagesController extends Controller
         $tab = "opportunities";
         return view('pages.opportunities')->with("tab", $tab);
     }
+
+    public function contact() {
+        $tab = "contact";
+        return view('pages.contact')->with("tab", $tab);
+    }
 }

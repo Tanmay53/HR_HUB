@@ -20,3 +20,5 @@ use Illuminate\Support\Facades\Route;
 Route::get('/', "PagesController@home");
 
 Route::get('/opportunities', "PagesController@opportunities");
+
+Route::get('/contact', "PagesController@contact");
