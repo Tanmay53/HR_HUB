@@ -1,0 +1,42 @@
+.navbar {
+  background-color: $indigo !important;
+  font-size: 1.3em;
+
+  .navbar-brand {
+    font-size: 1.5em;
+  }
+
+  .active {
+    font-size: 1.1em;
+    font-weight: bold;
+  }
+}
+
+#myCarousel {
+  width: 100%;
+  height: 50vh;
+
+  img {
+    width: 100%;
+    height: 50vh;
+  }
+
+  h1 {
+    font-size: 4vw;
+    background-color: rgba(256, 256, 256, 0.5);
+  }
+
+  .carousel-indicators {
+    li {
+      background-color: #000;
+    }
+  }
+
+  .carousel-control-prev {
+    background: linear-gradient(to right, rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0));
+  }
+
+  .carousel-control-next {
+    background: linear-gradient(to left, rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0));
+  }
+}
