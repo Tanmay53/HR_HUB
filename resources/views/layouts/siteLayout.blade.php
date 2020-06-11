@@ -26,13 +26,13 @@
             <li class="nav-item @if($tab == 'opportunities') active @endif">
               <a class="nav-link text-light" href="/opportunities">Opportunities<span class="sr-only">(current)</span></a>
             </li>
-            <li class="nav-item @if($tab == 'opportunities') active @endif">
+            <li class="nav-item @if($tab == 'join') active @endif">
               <a class="nav-link text-light" href="/join">Join Us</a>
             </li>
-            <li class="nav-item @if($tab == 'opportunities') active @endif">
+            <li class="nav-item @if($tab == 'login') active @endif">
               <a href="/login" class="nav-link text-light">Log In</a>
             </li>
-            <li class="nav-item @if($tab == 'opportunities') active @endif">
+            <li class="nav-item @if($tab == 'contact') active @endif">
               <a href="/contact" class="nav-link text-light">Contact Us</a>
             </li>
           </ul>

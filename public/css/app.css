@@ -10969,3 +10969,7 @@ a.text-dark:focus {
   background: linear-gradient(to left, rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0));
 }
 
+#introduction {
+  font-size: 1.2em;
+}
+
