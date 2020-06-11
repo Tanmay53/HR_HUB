@@ -22,3 +22,5 @@ Route::get('/', "PagesController@home");
 Route::get('/opportunities', "PagesController@opportunities");
 
 Route::get('/contact', "PagesController@contact");
+
+Route::get('/join', "PagesController@join_us");

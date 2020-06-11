@@ -22,4 +22,9 @@ class PagesController extends Controller
         $tab = "contact";
         return view('pages.contact')->with("tab", $tab);
     }
+
+    public function join_us() {
+        $tab = "join";
+        return view('pages.join')->with("tab", $tab);
+    }
 }

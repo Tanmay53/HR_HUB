@@ -6,7 +6,7 @@
       <hr class="featurette-divider text-primary">
       <div class="row justify-content-center featurette" id="recruitment">
         <div class="col-md-4">
-          <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d56119.79042778742!2d77.03294408261795!3d28.4648798231453!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x65d9d8f876a323c9!2sR.V%20HR%20Solution!5e0!3m2!1sen!2sin!4v1591870515664!5m2!1sen!2sin" width="600" height="1000" frameborder="0" class="featurette-image img-fluid" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
+          <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d56119.79042778742!2d77.03294408261795!3d28.4648798231453!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x65d9d8f876a323c9!2sR.V%20HR%20Solution!5e0!3m2!1sen!2sin!4v1591870515664!5m2!1sen!2sin" width="600" height="1000" frameborder="0" class="featurette-image img-fluid mx-auto" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
         </div>
         <div class="col-md-7">
           <div class="card p-2">

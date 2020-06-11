@@ -18,48 +18,48 @@
         <li data-target="#myCarousel" data-slide-to="6"></li>
       </ol>
       <div class="carousel-inner">
-        <div class="carousel-item active">
+        <a href="/opportunities#recruitment" class="carousel-item active">
           <img class="d-block w-100" src="{{asset('images/recruitment.png')}}" alt="Recruitment and Selection">
           <div class="carousel-caption text-dark pb-5">
             <h1 class="badge badge-pill"> Recruitment and Selection </h1>
           </div>
-        </div>
-        <div class="carousel-item">
+        </a>
+        <a href="/opportunities#compensation" class="carousel-item">
           <img class="d-block w-100" src="{{asset('images/compensation.jpg')}}" alt="Compensation and Benefits">
           <div class="carousel-caption text-dark pb-5">
             <h1 class="badge badge-pill"> Compensation and Benefits </h1>
           </div>
-        </div>
-        <div class="carousel-item">
+        </a>
+        <a href="/opportunities#health" class="carousel-item">
           <img class="d-block w-100" src="{{asset('images/health.png')}}" alt="Health and Safety">
           <div class="carousel-caption text-dark pb-5">
             <h1 class="badge badge-pill"> Health and Safety </h1>
           </div>
-        </div>
-        <div class="carousel-item">
+        </a>
+        <a href="/opportunities#relations" class="carousel-item">
           <img class="d-block w-100" src="{{asset('images/relations.png')}}" alt="Labor and Employee Relations">
           <div class="carousel-caption text-dark pb-5">
             <h1 class="badge badge-pill"> Labor and Employee Relations </h1>
           </div>
-        </div>
-        <div class="carousel-item">
+        </a>
+        <a href="/opportunities#training" class="carousel-item">
           <img class="d-block w-100" src="{{asset('images/training.jpg')}}" alt="Training and Development">
           <div class="carousel-caption text-dark pb-5">
             <h1 class="badge badge-pill"> Training and Development </h1>
           </div>
-        </div>
-        <div class="carousel-item">
+        </a>
+        <a href="/opportunities#risk_management" class="carousel-item">
           <img class="d-block w-100" src="{{asset('images/risk.jpg')}}" alt="Risk Management">
           <div class="carousel-caption text-dark pb-5">
             <h1 class="badge badge-pill"> Risk Management </h1>
           </div>
-        </div>
-        <div class="carousel-item">
+        </a>
+        <a href="/opportunities#managing" class="carousel-item">
           <img class="d-block w-100" src="{{asset('images/managers.jpeg')}}" alt="Managing and Directing">
           <div class="carousel-caption text-dark pb-5">
             <h1 class="badge badge-pill"> Managing and Directing </h1>
           </div>
-        </div>
+        </a>
       </div>
       <a class="carousel-control-prev" href="#myCarousel" role="button" data-slide="prev">
         <span class="carousel-control-prev-icon" aria-hidden="true"></span>
